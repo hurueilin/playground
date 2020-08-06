@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(t,e,n){"use strict";n.r(e);var s=function(){var t=this,e=t.$createElement;t._self._c;return t._m(0)},a=[function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",{staticClass:"about"},[n("p",[t._v("I do some piano covers just for fun!")])])}],o={methods:{startBtn:function(){alert("Start the engine...")}}},r=o,u=n("2877"),c=Object(u["a"])(r,s,a,!1,null,null,null);e["default"]=c.exports}}]);
+//# sourceMappingURL=about.bf2eee57.js.map
